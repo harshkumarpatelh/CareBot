@@ -1,0 +1,14 @@
+openai
+langchain
+huggingface
+langchain_community
+langchain_openai
+langchain_pinecone
+pinecone_client
+flask
+pypdf
+python-dotenv
+ctransformers
+sentence-transformers
+
+# -e . used to install local packege like setup.py
